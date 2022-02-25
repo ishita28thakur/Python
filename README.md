@@ -1,1 +1,1 @@
-## Python assignment regarding machine learning
+## Python assignment of machine learning
